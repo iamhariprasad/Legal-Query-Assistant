@@ -1,0 +1,54 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# Node / Frontend
+node_modules/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+*.tsbuildinfo
+chroma_data/
+uploads/
+
+# Evaluation
+evaluation/reports/*.json
+evaluation/reports/*.html
+
+# Railway
+.railway/
+*.railway.env
+
+# Docker
+.docker/

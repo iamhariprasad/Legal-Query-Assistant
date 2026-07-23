@@ -1,0 +1,11 @@
+flowchart TD
+  A["Receive Query"] --> B["Search"]
+  B --> C["Retrieve"]
+  C --> D["Re-rank"]
+  D --> E["Prompt Builder"]
+  E --> F["LLM"]
+  F --> G["Confidence Evaluation"]
+  G --> H["Guardrail"]
+  H --> I["Store History"]
+  I --> J["Return Response"]
+

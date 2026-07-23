@@ -1,0 +1,5 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "project": "legal-query-assistant",
+  "description": "AI-Powered Legal Query Assistant — citation-grounded Indian legal research RAG"
+}
