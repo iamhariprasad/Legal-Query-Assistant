@@ -4,7 +4,7 @@ A production-grade, local-first RAG (Retrieval-Augmented Generation) assistant f
 
 > **⚠️ This is not a substitute for qualified legal advice.**
 
-![Home Page](docs/screenshots/home.png)
+![Home Page](docs/screenshots/Screenshot 2026-07-23 153024.png)
 
 ---
 
